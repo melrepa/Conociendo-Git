@@ -1,3 +1,8 @@
+---
+title: El archivo nuevo
+subtitle: El subtitulo
+author: yo
+---
 
 
 # Titulo 1
