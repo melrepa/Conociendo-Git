@@ -37,3 +37,6 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+# No guardar en github los datos sensibles
+datos_sensibles/
